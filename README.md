@@ -3,7 +3,6 @@
 
 ## 🧾 Professional Summary  
 5+ years of experience delivering end-to-end React.js solutions across multiple domains, with a focus on building intuitive internal tools that solve critical business problems and streamline workflows.
----
 
 ## 🛠️ Skills  
 
@@ -43,37 +42,19 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
- 
 
----
-
-## ☁️ Cloud-Native Full-Stack Solution  
-
-### EMS Suite (PoC Project)  
+## EMS Suite (PoC Project)  
 🔗 [Live Demo](https://www.example.com) | [GitHub Repo](https://www.github.com/Example)  
-
-**Backend:**  
-Go (Golang), PostgreSQL, Go stdlib, Nginx, AWS EC2, AWS RDS  
-
-**Frontend:**  
-React 19, TypeScript, React Context (State Management), Tailwind CSS, Radix UI, Vercel  
-
-**Tools & Methods:**  
-Git, CI/CD, WSL2, Docker, RESTful APIs, WebSocket, Postman  
-
-**Security:**  
-JWT-based Authentication with Permission-based Access Control  
-
----
+A Next-gen, flexible **business management system**, built as a ☁️ **Cloud-Native Full-Stack Solution** which is deployed on **AWS**.  
+Powered by **React 19**, **Tailwind CSS v4**, and the robustness of **Golang**.  
 
 ## 💼 Work Experience Highlights  
 
 - Developed **responsive, cross-browser web applications** with React.js optimized for cloud environments, ensuring seamless desktop and mobile UX.  
-- Integrated React front-end with **Java REST APIs, WebSockets, and Firebase Cloud Messaging** to deliver real-time communication, push notifications, and data sync.  
-- Built **reusable React components** and implemented **CI/CD pipelines**, improving code maintainability and reducing development cycles by **30%**.  
+- Integrated React front-end with **Java REST APIs, WebSockets for chat applications, and Firebase Cloud Messaging** to deliver real-time communication, push notifications, and data sync.  
+- Built **reusable React components** and implemented **CI/CD pipelines**, improving code maintainability.  
 - Collaborated with backend and QA teams to debug, test, and deliver **scalable features** aligned with business requirements.  
 - Applied performance optimizations (**memoization, code splitting**) to enhance rendering speed and responsiveness.  
-- Mentored **junior developers** in React and modern JavaScript best practices.  
 
 ---
 
