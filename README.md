@@ -2,7 +2,7 @@
 **Web Developer [ Full Stack & Cloud ]**
 
 ### 🧾 Professional Summary  
-5+ years of experience delivering end-to-end React.js solutions across multiple domains, with a focus on building intuitive internal tools that solve critical business problems and streamline workflows.
+5+ years of experience of architecting and delivering end-to-end React.js solutions across multiple domains, with a focus on building intuitive internal tools that solve critical business problems and streamline workflows.
 
 ### 🛠️ Skills  
 
