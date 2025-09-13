@@ -6,10 +6,10 @@
 
 ### 🛠️ Skills  
 
-**Languages:** JavaScript, TypeScript, Python, Golang, SQL, HTML5, CSS3  
-**Frameworks & Libraries:** React, Next.js, Node.js, React Query, Redux, Material-UI, Tailwind CSS, Radix UI  
-**Databases & Cloud:** Firebase, Vercel, PostgreSQL, AWS (EC2, RDS, S3), Docker, Nginx  
-**Tools & Methods:** RESTful APIs, WebSocket, System Design, Agile/Scrum, CI/CD, Jest, Git, LMDE (Linux)  
+Languages: **JavaScript, TypeScript, Python, Golang, SQL, HTML5, CSS3**  
+Frameworks & Libraries: **React, Next.js, Node.js, React Query, Redux, Material-UI, Tailwind CSS, Radix UI**  
+Databases & Cloud: **Firebase, Vercel, PostgreSQL, AWS (EC2, RDS, S3), Docker, Nginx**  
+Tools & Methods: **RESTful APIs, WebSocket, System Design, Agile/Scrum, CI/CD, Jest, Git, LMDE (Linux)**  
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
