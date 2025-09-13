@@ -2,7 +2,7 @@
 **Web Developer [ Full Stack & Cloud ]**   🔗    [My Portfolio Page](https://shrin210-98.github.io/Shrinath.me)
 
 ### 🧾 Professional Summary  
-5+ years of experience of architecting and delivering end-to-end React.js solutions across multiple domains, with a focus on building intuitive internal tools that solve critical business problems and streamline workflows.
+5+ years of experience of Architecting and delivering end-to-end React.js solutions across multiple domains, with a focus on building intuitive internal tools that solve critical business problems and streamline workflows.
 
 ### 🛠️ Skills  
 
@@ -20,7 +20,7 @@
 
 ### 🏢 EMS Suite (PoC Project)  
 🔗 [Live Demo](https://www.example.com) | [GitHub Repo](https://github.com/Shrin210-98/CanteenCrowd-go-api)  
-A Next-gen, flexible **business management system**, built as a ☁️ **Cloud-Native Full-Stack Solution** which is deployed on **AWS**.  
+A Next-gen, **flexible** business management system, built as a ☁️ **Cloud-Native Full-Stack Solution** which is deployed on **AWS**.  
 Powered by **React 19**, **Tailwind CSS v4**, and the robustness of **Golang**.  
 
 ### 💼 Work Experience Highlights  
