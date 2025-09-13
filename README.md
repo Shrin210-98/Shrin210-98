@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Shrinath 
-**Web Developer [ Full Stack & Cloud ]**   🔗    [My Portfolio Page](https://www.shrin210-98.github.io/Shrinath.me)
+**Web Developer [ Full Stack & Cloud ]**   🔗    [My Portfolio Page](https://shrin210-98.github.io/Shrinath.me)
 
 ### 🧾 Professional Summary  
 5+ years of experience of architecting and delivering end-to-end React.js solutions across multiple domains, with a focus on building intuitive internal tools that solve critical business problems and streamline workflows.
