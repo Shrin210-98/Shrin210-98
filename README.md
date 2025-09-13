@@ -19,7 +19,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🏢 EMS Suite (PoC Project)  
-🔗 [Live Demo](https://www.example.com) | [GitHub Repo](https://www.github.com/Example)  
+🔗 [Live Demo](https://www.example.com) | [GitHub Repo](https://github.com/Shrin210-98/CanteenCrowd-go-api)  
 A Next-gen, flexible **business management system**, built as a ☁️ **Cloud-Native Full-Stack Solution** which is deployed on **AWS**.  
 Powered by **React 19**, **Tailwind CSS v4**, and the robustness of **Golang**.  
 
