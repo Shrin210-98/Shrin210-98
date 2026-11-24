@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Shrinath 
-**Web Developer [ Full Stack & Cloud ]**   🔗    [My Portfolio Page](https://shrin210-98.github.io/Shrinath.me)
+**Software Engineer [ Full Stack & Cloud ]**   🔗    [My Portfolio Page](https://shrinath.pages.dev/)
 
 ### 🧾 Professional Summary  
 5+ years of experience of Architecting and delivering end-to-end React.js solutions across multiple domains, with a focus on building intuitive internal tools that solve critical business problems and streamline workflows.
@@ -19,8 +19,8 @@ Tools & Methods: **RESTful APIs, WebSocket, System Design, Agile/Scrum, CI/CD, J
 ![System Design](https://img.shields.io/badge/System%20Design-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🏢 EMS Suite (PoC Project)  
-🔗 [Live Demo](https://www.example.com) | [GitHub Repo](https://github.com/Shrin210-98/CanteenCrowd-go-api)  
+### 🏢  CCMS (PoC Project)  
+🔗 [Live Demo](https://app.ccms-suite.com) | [GitHub Repo](https://github.com/Shrin210-98/CanteenCrowd-go-api)  
 A Next-gen, **flexible** business management system, built as a ☁️ **Cloud-Native Full-Stack Solution** which is deployed on **AWS**.  
 Powered by **React 19**, **Tailwind CSS v4**, and the robustness of **Golang**.  
 
